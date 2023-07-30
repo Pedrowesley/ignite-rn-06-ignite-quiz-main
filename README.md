@@ -1,7 +1,6 @@
-
 # :bulb: IgniteQuiz
 
->  Uma aplicação de QUIZ com foco no desenvolvimento de animações, microinterações e feedbacks visuais, táteis e sonoros.
+> Uma aplicação de QUIZ com foco no desenvolvimento de animações, microinterações e feedbacks visuais, táteis e sonoros.
 
 ## :mag: Visão Geral
 
@@ -52,37 +51,19 @@ Para executar o projeto, utilize um dos seguintes comandos:
 - Para iniciar a versão web:
 
 ```bash
-npm run web
-```
-
-ou
-
-```bash
-yarn web
+expo start --web
 ```
 
 - Para iniciar a versão no emulador Android:
 
 ```bash
-npm run android
-```
-
-ou
-
-```bash
-yarn android
+expo start --android
 ```
 
 - Para iniciar a versão no emulador iOS:
 
 ```bash
-npm run ios
-```
-
-ou
-
-```bash
-yarn ios
+expo start --ios
 ```
 
 ## :wrench: Tecnologias Utilizadas
