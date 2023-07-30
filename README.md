@@ -30,7 +30,7 @@ git clone https://github.com/Pedrowesley/ignite-rn-06-ignite-quiz-main.git
 2. Navegue para a pasta do projeto:
 
 ```bash
-cd ignitequiz
+cd ignite-rn-06-ignite-quiz-main
 ```
 
 3. Instale as dependências:
