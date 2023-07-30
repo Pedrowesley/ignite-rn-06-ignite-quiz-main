@@ -1,38 +1,109 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
 
 
-## 💻 Projeto
+# IgniteQuiz
 
-ignite-rn-06-ignite-quiz
+Uma aplicação de QUIZ com foco no desenvolvimento de animações, microinterações e feedbacks visuais, táteis e sonoros.
 
-## 📝 Licença
+## Visão Geral
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+O IgniteQuiz é um projeto desenvolvido como parte do curso Ignite da Rocketseat, com o objetivo de explorar conceitos avançados de animações e interações no desenvolvimento de aplicativos utilizando React Native e Expo.
 
----
+## Funcionalidades
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+- Exibição de perguntas e opções de respostas em um formato de Quiz interativo.
+- Feedback visual, tátil e sonoro ao responder cada pergunta.
+- Integração com fontes do Google para estilização dos textos.
+- Utilização de componentes e recursos avançados do React Native e Expo.
 
+## Requisitos do Sistema
 
-<!--START_SECTION:footer-->
+- Node.js (v14 ou superior)
+- Expo CLI (instalado globalmente)
 
-<br />
-<br />
+## Instalação
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+1. Clone o repositório:
 
-<!--END_SECTION:footer-->
+```bash
+git clone https://github.com/seu-usuario/ignitequiz.git
+```
 
+2. Navegue para a pasta do projeto:
+
+```bash
+cd ignitequiz
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+ou
+
+```bash
+yarn install
+```
+
+## Executando o Projeto
+
+Para executar o projeto, utilize um dos seguintes comandos:
+
+- Para iniciar a versão web:
+
+```bash
+npm run web
+```
+
+ou
+
+```bash
+yarn web
+```
+
+- Para iniciar a versão no emulador Android:
+
+```bash
+npm run android
+```
+
+ou
+
+```bash
+yarn android
+```
+
+- Para iniciar a versão no emulador iOS:
+
+```bash
+npm run ios
+```
+
+ou
+
+```bash
+yarn ios
+```
+
+## Tecnologias Utilizadas
+
+- React Native
+- Expo
+- React Navigation
+- React Native SVG
+- Expo AV (Audio/Video)
+- Expo Haptics (Feedback tátil)
+- Outras dependências listadas no `package.json`
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você encontrou algum bug ou tem alguma melhoria para sugerir, por favor, abra uma nova "Issue" ou envie um "Pull Request".
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
+## Imagem
+
+![Imagem do Aplicativo](screenshots/screenshot_app.png)
