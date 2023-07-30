@@ -1,31 +1,30 @@
 
+# :bulb: IgniteQuiz
 
-# IgniteQuiz
+>  Uma aplicação de QUIZ com foco no desenvolvimento de animações, microinterações e feedbacks visuais, táteis e sonoros.
 
-Uma aplicação de QUIZ com foco no desenvolvimento de animações, microinterações e feedbacks visuais, táteis e sonoros.
-
-## Visão Geral
+## :mag: Visão Geral
 
 O IgniteQuiz é um projeto desenvolvido como parte do curso Ignite da Rocketseat, com o objetivo de explorar conceitos avançados de animações e interações no desenvolvimento de aplicativos utilizando React Native e Expo.
 
-## Funcionalidades
+## :rocket: Funcionalidades
 
 - Exibição de perguntas e opções de respostas em um formato de Quiz interativo.
 - Feedback visual, tátil e sonoro ao responder cada pergunta.
 - Integração com fontes do Google para estilização dos textos.
 - Utilização de componentes e recursos avançados do React Native e Expo.
 
-## Requisitos do Sistema
+## :computer: Requisitos do Sistema
 
 - Node.js (v14 ou superior)
 - Expo CLI (instalado globalmente)
 
-## Instalação
+## :arrow_down: Instalação
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ignitequiz.git
+git clone https://github.com/Pedrowesley/ignite-rn-06-ignite-quiz-main.git
 ```
 
 2. Navegue para a pasta do projeto:
@@ -46,7 +45,7 @@ ou
 yarn install
 ```
 
-## Executando o Projeto
+## :rocket: Executando o Projeto
 
 Para executar o projeto, utilize um dos seguintes comandos:
 
@@ -86,7 +85,7 @@ ou
 yarn ios
 ```
 
-## Tecnologias Utilizadas
+## :wrench: Tecnologias Utilizadas
 
 - React Native
 - Expo
@@ -96,14 +95,14 @@ yarn ios
 - Expo Haptics (Feedback tátil)
 - Outras dependências listadas no `package.json`
 
-## Contribuição
+## :handshake: Contribuição
 
 Contribuições são bem-vindas! Se você encontrou algum bug ou tem alguma melhoria para sugerir, por favor, abra uma nova "Issue" ou envie um "Pull Request".
 
-## Licença
+## :scroll: Licença
 
 Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
-## Imagem
+## :camera_flash: Imagem
 
 ![Imagem do Aplicativo](screenshots/screenshot_app.png)
